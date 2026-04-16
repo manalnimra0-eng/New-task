@@ -13,8 +13,8 @@ https://drive.google.com/drive/folders/1B4ktrSjuOJoWGVi3ChlNf_1X2lXauw9C?usp=sha
 | File | Role | Bugs Found |
 |------|------|-----------|
 | `Admin_bug.xlsx` | Admin, Teacher & Student (2nd Round Testing) | 15 bugs |
-| `student_bug.xlsx` | Student Panel (iOS) | 24 bugs |
-| `teacher_bug.xlsx` | Teacher Panel (iOS) | 32 bugs |
+| `student_bug.xlsx` | Student Panel (iOS,android) | 24 bugs |
+| `teacher_bug.xlsx` | Teacher Panel (iOS,android) | 32 bugs |
 
 > **Note:** `Admin_bug.xlsx` was reported during the **2nd round of testing**, which covered all three roles — Admin, Teacher, and Student — together under the Admin panel review.
 
