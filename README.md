@@ -33,6 +33,7 @@ https://drive.google.com/drive/folders/1B4ktrSjuOJoWGVi3ChlNf_1X2lXauw9C?usp=sha
 | File | Module | Total TCs |
 |------|--------|-----------|
 | `test_case.xlsx` | SICOREMO / TVMS Admin Panel (iOS) | 48+ |
+Designed and documented test cases for an iOS-based video monitoring and recording application, covering functional  requirements, user authentication, guest access, video recording, and storage management.
 
 **Modules covered:** Login, Guest User, User Info Display, Video Recording, Local Storage, Delete & Hold functionality.
 
